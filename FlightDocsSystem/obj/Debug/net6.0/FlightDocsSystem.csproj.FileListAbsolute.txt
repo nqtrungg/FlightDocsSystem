@@ -85,3 +85,4 @@ C:\Users\User\OneDrive\Máy tính\Intern\FlightDocsSystem-main\FlightDocsSystem\
 C:\Users\User\OneDrive\Máy tính\Intern\FlightDocsSystem-main\FlightDocsSystem\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\User\OneDrive\Máy tính\Intern\FlightDocsSystem-main\FlightDocsSystem\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\User\OneDrive\Máy tính\Intern\FlightDocsSystem-main\FlightDocsSystem\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\OneDrive\Máy tính\Intern\FlightDocsSystem-main\FlightDocsSystem\bin\Debug\net6.0\AutoMapper.dll
